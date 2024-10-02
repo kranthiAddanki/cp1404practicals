@@ -26,7 +26,7 @@ score program
 import random
 
 def main():
-# randomise score
+# randomise score and prints result
     score = random.randint(1,100)
     print(score)
     print(calculate_result(score))
@@ -40,6 +40,5 @@ def calculate_result(score):
         return "pass"
     else:
         return "Bad"
-
 
 main()
