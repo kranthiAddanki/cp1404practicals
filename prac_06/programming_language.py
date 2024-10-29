@@ -1,4 +1,4 @@
-# 15 minutes
+# Expected time 15 minutes, Actual time 60 minutes
 class ProgrammingLanguage:
     """Represents information about programming languages."""
 
